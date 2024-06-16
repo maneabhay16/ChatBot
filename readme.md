@@ -64,4 +64,4 @@ If everything is set up correctly, this should launch a Gradio interface in your
 
 4. The generated response will be displayed in the chat window.
 
-**Note:** This is a general guide. Specific steps might vary depending on the script you choose.
+
